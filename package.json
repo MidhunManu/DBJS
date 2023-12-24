@@ -1,0 +1,11 @@
+{
+  "name": "dbjs",
+  "version": "1.0.0",
+  "description": "a node js document oriented database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Midhun",
+  "license": "GPL-3.0"
+}
